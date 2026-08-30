@@ -1,0 +1,41 @@
+# Android Studio
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+*.hprof
+
+# Arquivos sensíveis (NÃO subir para o GitHub)
+app/google-services.json
+
+# Logs
+*.log
+
+# Node/Backend
+node_modules/
+.env
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~

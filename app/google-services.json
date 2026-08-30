@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208834569691",
+    "project_id": "urbana-58407",
+    "storage_bucket": "urbana-58407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208834569691:android:bf595e5e1fe3a121d0b3fe",
+        "android_client_info": {
+          "package_name": "com.urbana.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKoNI5Ogl4wr2x26I551GY_q4DiGuK7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
